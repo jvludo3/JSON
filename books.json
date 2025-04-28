@@ -4,14 +4,14 @@
         "title": "The Great Gatsby",
         "author": "F. Scott Fitzgerald",
         "genre": "Classic",
-        "available": "false"
+        "available": "Checked out"
     },
     {
         "id": 2,
         "title": "To Kill a Mockingbird",
         "author": "Harper Lee",
         "genre": "Fiction",
-        "available": "false"
+        "available": "Checked out"
     },
     {
         "id": 3,
